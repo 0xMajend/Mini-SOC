@@ -29,8 +29,3 @@ The architecture leverages a robust set of open-source and cloud technologies:
 3. **Defense Validation:** Executing simulated cyber attacks (e.g., Brute-force, port scanning) using Kali Linux to test and refine **Incident Response Playbooks** and alerting thresholds.
 4. **Compliance Mapping:** Ensuring all architectural controls align with the Essential Cybersecurity Controls (**NCA ECC-2024**).
 
----
-
-## 👥 Team Members
-This project was built and maintained by a dedicated team of 5 cybersecurity students:
-* **Team Leader & Members** (يمكنك إضافة الأسماء هنا إذا رغبت)
